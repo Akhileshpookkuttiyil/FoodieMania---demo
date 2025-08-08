@@ -63,7 +63,7 @@ This project follows a clear separation of concerns with **role-based access** f
       <td><img width="300" src="https://github.com/user-attachments/assets/ebeb2ac3-d375-4603-877d-77207602614d" /></td>
     </tr>
     <tr>
-      <td><img width="300" src="https://github.com/user-attachments/assets/fe00a1b7-1c55-4f51-87d3-8d5a77fe22eb" /></td>
+      <td><img width="300" src="https://github.com/user-attachments/assets/d359c94d-f0d1-4819-b128-613976e8eecf" /></td>
       <td><img width="300" src="https://github.com/user-attachments/assets/60b21e78-525b-4d31-9ba3-508729afacaf" /></td>
       <td><img width="300" src="https://github.com/user-attachments/assets/f12a67fc-7e07-40d8-b5fd-f102e699e74f" /></td>
     </tr>
