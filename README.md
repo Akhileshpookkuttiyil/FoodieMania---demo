@@ -89,7 +89,7 @@ This project follows a clear separation of concerns with **role-based access** f
 
 ## 🔗 Links
 
-- **Live Demo**: _Coming Soon_
+- **Live Demo**:https://foodiemania.vercel.app
 - **Full Access**: Available upon request (for employers or collaborators)
 
 ---
