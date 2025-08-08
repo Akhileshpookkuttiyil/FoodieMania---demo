@@ -43,18 +43,21 @@ This project follows a clear separation of concerns with **role-based access** f
 
 ## 📷 Screenshots
 
-> <img width="1366" height="768" alt="foodiemania" src="https://github.com/user-attachments/assets/aaa9854c-f8cf-4bb8-b60c-582c48a92463" />
-<img width="1366" height="768" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/b36e9578-2768-485c-892c-41a14f3317ca" />
-> <img width="1366" height="768" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/fd61f6dc-6868-43d8-801e-95595784573a" />
-
-
-
+<div align="center">
+  <img width="600" alt="foodiemania" src="https://github.com/user-attachments/assets/aaa9854c-f8cf-4bb8-b60c-582c48a92463" />
+  <img width="600" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/b36e9578-2768-485c-892c-41a14f3317ca" />
+  <img width="600" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/fd61f6dc-6868-43d8-801e-95595784573a" />
+  <img width="600" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/666c81fd-b5dd-4a5c-bd18-6d63029f370b" />
+  <img width="600" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/379626cb-6287-4b0d-9ce9-076644dcfb77" />
+  <img width="600" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/4ceaa73a-8b92-4570-bb4c-d2ea9943f3f4" />
+  <img width="600" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/58af0525-3d1b-414d-83e3-cd7939edcf51" />
+</div>
 
 ---
 
 ## 🔗 Links
 
-- **Live Demo**: _Coming Soon_ or _Optional_
+- **Live Demo**: _Coming Soon_
 - **Full Access**: Available upon request (for employers or collaborators)
 
 ---
