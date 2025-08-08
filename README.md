@@ -43,47 +43,31 @@ This project follows a clear separation of concerns with **role-based access** f
 
 ## 📷 Screenshots
 
-### 👤 User Screens
 
-<div align="center">
-  <img width="600" alt="foodiemania" src="https://github.com/user-attachments/assets/aaa9854c-f8cf-4bb8-b60c-582c48a92463" />
-  <img width="1350" height="692" alt="2" src="https://github.com/user-attachments/assets/de765e46-30ca-4bc9-a97e-0316ea940856" />
-  <img width="1350" height="692" alt="2" src="https://github.com/user-attachments/assets/52e8f08d-60be-4c81-81a4-e7fff3b0c105" />
-  <img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/674b0b7a-be6c-4157-ad61-2e78e735b374" />
-  <img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/31717e6f-7008-4626-8add-7693b0682e42" />
-  <img width="1337" height="690" alt="6" src="https://github.com/user-attachments/assets/ba2d2de5-d2b1-45da-b4f4-4392f3d1139c" />
-  <img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/6886a5a8-4aa0-45e4-95e1-4e2580cb09db" />
-  <img width="1366" height="768" alt="8" src="https://github.com/user-attachments/assets/bc59f74d-1eef-491b-92a8-f4ec7f012d31" />
-  <img width="1366" height="686" alt="9" src="https://github.com/user-attachments/assets/ebeb2ac3-d375-4603-877d-77207602614d" />
-  <img width="1366" height="768" alt="10" src="https://github.com/user-attachments/assets/fe00a1b7-1c55-4f51-87d3-8d5a77fe22eb" />
-  <img width="1366" height="768" alt="12" src="https://github.com/user-attachments/assets/60b21e78-525b-4d31-9ba3-508729afacaf" />
-  <img width="1366" height="683" alt="11" src="https://github.com/user-attachments/assets/f12a67fc-7e07-40d8-b5fd-f102e699e74f" />
-</div>
+### 👤 **User**  
+Browse grocery items, manage cart, place orders
+
+| ![User 1](https://github.com/user-attachments/assets/059ec843-b113-4c69-9acc-eeea9613a711) | ![User 2](https://github.com/user-attachments/assets/2e0fc8d9-88af-456b-b3ba-ee43fe9c2b99) | ![User 3](https://github.com/user-attachments/assets/371695dc-eb26-4362-bb06-254f43eb5d4c) |
+|:--:|:--:|:--:|
+| ![User 4](https://github.com/user-attachments/assets/465afba4-ea23-4d4e-a8e1-9c9052117235) | ![User 5](https://github.com/user-attachments/assets/56e9b2a3-e92f-495b-96bf-44041f42cc9c) | ![User 6](https://github.com/user-attachments/assets/8b8cf28e-3c75-48b2-907c-cd4cd018d812) |
+| ![User 7](https://github.com/user-attachments/assets/0fc95435-301f-4847-b4e5-864bf63f056c) |  |  |
 
 ---
 
-### 🧑‍🍳 Seller Screens
+### 🛍️ **Seller**  
+Manage inventory, track orders, fulfill deliveries
 
-<div align="center">
-  <img width="1366" height="768" alt="2 1" src="https://github.com/user-attachments/assets/2d87ddc7-c406-428b-bdbc-ba99a79541ff" />
-  <img width="1366" height="768" alt="2 2" src="https://github.com/user-attachments/assets/547d7b20-5618-4a42-87a4-86a349ee05f8" />
-  <img width="1366" height="768" alt="2 3" src="https://github.com/user-attachments/assets/9a15da22-2a3f-4f83-8c79-6ec4bf2b6552" />
-  <img width="1366" height="768" alt="2 4" src="https://github.com/user-attachments/assets/544bbf5b-c28c-4e96-92ae-094452d96e2d" />
-  <img width="1366" height="768" alt="2 5" src="https://github.com/user-attachments/assets/7329a409-e0e1-4f6b-8c2f-9896a8d8989d" />
-</div>
+| ![Seller 1](https://github.com/user-attachments/assets/66782cb9-c9a0-4a65-951b-4961b7b9d9a6) | ![Seller 2](https://github.com/user-attachments/assets/88da90ed-9e5e-4c96-a86f-73c1757ef67e) | ![Seller 3](https://github.com/user-attachments/assets/107a8c77-dcc8-4547-9f70-2d315f309940) |
+|:--:|:--:|:--:|
 
 ---
 
-### 🛡️ Admin Screens
+### 🛡️ **Admin**  
+Oversee all platform activity, manage users and sellers
 
-<div align="center">
-  <img width="1366" height="768" alt="3 1" src="https://github.com/user-attachments/assets/7d1f6910-4edd-4c35-949c-bf85bf85602e" />
-  <img width="1366" height="768" alt="3 2" src="https://github.com/user-attachments/assets/796dd4f4-e4a5-4b75-9b59-3b2ee3ca2d7e" />
-  <img width="1366" height="768" alt="3 3" src="https://github.com/user-attachments/assets/e39db0e8-f1d1-45a0-9dc5-d681b15a76d6" />
-  <img width="1366" height="768" alt="3 4" src="https://github.com/user-attachments/assets/b377c307-3fa1-4fe4-94da-690c0cd98136" />
-  <img width="1366" height="768" alt="3 5" src="https://github.com/user-attachments/assets/15a03f0b-5764-4ae6-9c14-fd62f6a25651" />
-</div>
-
+| ![Admin 1](https://github.com/user-attachments/assets/7d1f6910-4edd-4c35-949c-bf85bf85602e) | ![Admin 2](https://github.com/user-attachments/assets/796dd4f4-e4a5-4b75-9b59-3b2ee3ca2d7e) | ![Admin 3](https://github.com/user-attachments/assets/e39db0e8-f1d1-45a0-9dc5-d681b15a76d6) |
+|:--:|:--:|:--:|
+| ![Admin 4](https://github.com/user-attachments/assets/b377c307-3fa1-4fe4-94da-690c0cd98136) | ![Admin 5](https://github.com/user-attachments/assets/15a03f0b-5764-4ae6-9c14-fd62f6a25651) |  |
 
 ---
 
