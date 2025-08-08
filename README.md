@@ -43,7 +43,12 @@ This project follows a clear separation of concerns with **role-based access** f
 
 ## 📷 Screenshots
 
-> *(Insert screenshots here – homepage, cart, login flow, seller dashboard, etc.)*
+> <img width="1366" height="768" alt="foodiemania" src="https://github.com/user-attachments/assets/aaa9854c-f8cf-4bb8-b60c-582c48a92463" />
+<img width="1366" height="768" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/b36e9578-2768-485c-892c-41a14f3317ca" />
+> <img width="1366" height="768" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/fd61f6dc-6868-43d8-801e-95595784573a" />
+
+
+
 
 ---
 
