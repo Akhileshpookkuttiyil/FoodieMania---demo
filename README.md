@@ -123,4 +123,4 @@ Sensitive code, authentication flows, full API logic, and production configurati
 
 ## 📫 Contact
 
-For access to the complete version or collaboration requests, feel free to reach out via GitHub or email.
+For access to the full source or inquiries regarding collaboration, feel free to reach out via <a href="https://github.com/Akhileshpookkuttiyil">GitHub</a> or email at <span style="font-size: 12px;">akhileshpookkuttiyil@gmail.com</span>.
