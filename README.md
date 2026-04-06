@@ -41,6 +41,66 @@ This project follows a clear separation of concerns with **role-based access** f
 
 ---
 
+## ✅ Current FoodieMania Functionality
+
+> This public demo repository remains documentation-only, but the current main **FoodieMania** project implements the following:
+
+- Email/password signup with OTP verification, Google sign-in, JWT cookie auth, and separate user, seller, and admin sessions
+- Public storefront pages for home, menus, locations, blogs, contact, about, search results, restaurant details, and slug-based product, restaurant, and blog routes
+- Product browsing with category-based discovery, keyword search, limited-offer sections, related dishes, and stock-aware menu listings
+- User flows for profile updates, saved delivery addresses, synced carts, Cash on Delivery checkout, Stripe checkout, order history, and pending-order cancellation
+- Table reservation flow with restaurant selection, table selection, Stripe payment, booking history, and seller-side booking status updates
+- Blog publishing with tags, cover image upload or URL support, public blog listings, and blog detail pages
+- Seller tools for approved sellers to manage products, stock status, restaurant tables, orders, bookings, and dashboard metrics
+- Admin tools for managing users, sellers, restaurants, products, and orders, including seller approval, restaurant approval/blocking, and operational data reset when explicitly enabled
+
+## 🏗️ Architecture Snapshot
+
+- `client/` contains the React 18 + Vite frontend, organized around public, user, seller, and admin routes, with Zustand stores exposed through `AppContext`
+- `server/` contains the Express API, modular routes/controllers/models, authentication middleware, Cloudinary uploads, Stripe checkout/webhooks, and MongoDB persistence
+- `server/scripts/` contains maintenance utilities for slug backfills and resetting operational data used during local development/testing
+
+## ⚙️ Local Setup
+
+```bash
+cd server
+npm install
+npm run server
+```
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+The frontend expects `VITE_BACKEND_URL`, and the backend runs on port `4000` by default unless `PORT` is set.
+
+## 🔐 Environment Variables
+
+### Client
+
+- `VITE_BACKEND_URL` - backend base URL used by Axios
+- `VITE_GOOGLE_CLIENT_ID` - Google OAuth client ID for user sign-in
+
+### Server
+
+- `MONGO_URI` - MongoDB connection string prefix; the app connects to the `foodiemania` database
+- `JWT_SECRET` - signing secret for user, seller, and admin JWT cookies
+- `CLOUDINARY_CLOUD_NAME`
+- `CLOUDINARY_API_KEY`
+- `CLOUDINARY_SECRET_KEY`
+- `STRIPE_SECRET_KEY`
+- `STRIPE_WEBHOOK_SECRET`
+- `EMAIL_USER` - sender account for OTP emails
+- `EMAIL_PASS` - credential/app password for OTP emails
+- `FRONTEND_URL` - fallback origin used in Stripe booking redirects
+- `PORT` - optional Express port, defaults to `4000`
+- `NODE_ENV` - controls secure cookie behavior and development error output
+- `ALLOW_DATA_RESET` - optional safeguard for the admin reset endpoint
+
+---
+
 ## 📷 Screenshots
 
 ### 👤 User Screens
